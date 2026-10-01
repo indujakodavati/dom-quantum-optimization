@@ -87,6 +87,8 @@ The model strictly follows Nestlé's 7 real-world fulfillment rules:
 
 ### Solver Approaches
 
+---
+
 #### 1. Classical MILP Approach
 
 The Mixed-Integer Linear Programming model treats the problem as a full mathematical optimization using binary variables for DC assignments and linear equations for capacities. Solved with PuLP/CBC, it evaluates the entire trade-off between shipping costs, penalties, and revenues simultaneously, proving the globally optimal solution across the full network.
