@@ -56,6 +56,8 @@ Both approaches are benchmarked against standard industry rules (never rerouting
 
 ### Business Rules & Constraints
 
+---
+
 The model strictly follows Nestlé's 7 real-world fulfillment rules:
 
 * **C1 - Single Sourcing:** Each order is sent to at most one distribution center (DC) or left unassigned.
