@@ -54,7 +54,7 @@ Both approaches are benchmarked against standard industry rules (never rerouting
 
 ---
 
-### Business Rules & Constraints
+## Business Rules & Constraints
 
 ---
 
@@ -87,7 +87,7 @@ The model strictly follows Nestlé's 7 real-world fulfillment rules:
 
 ---
 
-### Solver Approaches
+## Solver Approaches
 
 ---
 
