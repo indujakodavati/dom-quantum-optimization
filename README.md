@@ -1,5 +1,4 @@
 # Distributed Order Management : QAOA + MILP Optimization
-
 ---
 
 ## Executive Summary
